@@ -8,7 +8,8 @@
 
 - Pronouns: she/her
 - Ask me about roller derby and korean crime tv shows.
-- I’m currently working as a Java Developer
+- Work as a Java/Kotlin Developer
+- I’m currently studying for a bachelor's degree in Software Engineering
 
 ---
 
