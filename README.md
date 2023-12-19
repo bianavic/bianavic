@@ -1,4 +1,6 @@
-<img src="quote_1.jpg" width="1000" height="400" alt="My logo image contains an African proverb that says, If you want to go fast, go alone. If you want to go far, go together. The background is black, written in blue, with the words fast, far, and together written in pink"/>
+<p align='center'>
+  <img src="quote_1.png" width="900" height="300" alt="My logo image contains an African proverb that says, If you want to go fast, go alone. If you want to go far, go together. The background is black, written in blue, with the words fast, far, and together written in pink"/>
+</p>
 
 ## <p align='center'>I'm Fabi.</p>
 
