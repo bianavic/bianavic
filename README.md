@@ -10,8 +10,9 @@
 
 - Pronouns: she/her
 - Ask me about roller derby, crossfit and korean crime tv shows.
-- Work as a Java/Kotlin Backend Developer
-- I’m currently studying for a bachelor's degree in Software Engineering
+- Backend Developer(Go/Golang) at Latin America's largest e-commerce platform
+- Former Java/Kotlin Developer - Developed backend solutions for financial systems, with experiences in banking and fintech environments
+- Currently pursuing a postgraduate degree in Go Expert
 
 ---
 
